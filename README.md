@@ -2,13 +2,7 @@
 Analytical Center (AC) — it`s web-application for collect, save and analyze pen-test information.
 
 # Links
-Docs EN [http://hack4sec.pro/wiki/index.php/Analytical_Center_2_en](http://hack4sec.pro/wiki/index.php/Analytical_Center_2_en)
-
-Docs RU [http://hack4sec.pro/wiki/index.php/Analytical_Center_2](http://hack4sec.pro/wiki/index.php/Analytical_Center_2)
-
-Project forum EN: [http://hack4sec.pro/forum/viewforum.php?f=13](http://hack4sec.pro/forum/viewforum.php?f=13)
- 
-Project forum RU: [http://hack4sec.pro/forum/viewforum.php?f=14](http://hack4sec.pro/forum/viewforum.php?f=14) 
+Docs EN/RU: see wiki
 
 # Screenshots
 
